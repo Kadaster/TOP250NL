@@ -660,6 +660,11 @@ NOTE Voorbeelden zijn: rivier, kanaal, beek, zee, meer, oppervlaktewater in alge
               <documentation>Fysiek voorkomen: De plaats waar het object zich bevindt t.o.v. andere constructies.</documentation>
             </annotation>
           </element>
+          <element minOccurs="0" name="verhardingsbreedteklasse" type="gml:CodeType">
+            <annotation>
+              <documentation>De breedte van de verharding, ingedeeld in klassen</documentation>
+            </annotation>
+          </element>
           <element name="gescheidenRijbaan" type="brt:BRTJaNeeWaardeType">
             <annotation>
               <documentation>Aanduiding of het object onderdeel uitmaakt van een weg met gescheiden rijbanen</documentation>
