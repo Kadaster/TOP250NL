@@ -1,6 +1,6 @@
 # UML van TOP250NL
 TOP250NL is een van de producten binnen de BasisRegistratie Topografie (BRT). 
-TOP250NL is afgeleid van TOP10NL. 
+De data van TOP250NL is afkomstig uit de European Regional Map (ERM), maar sluit aan op het informatiemodel IMBRT. 
  
 TOP250NL versie 1.2.0 is een onderdeel (applicationSchema) van het Informatiemodel Basisregistratie Topografie (IMBRT). 
 
